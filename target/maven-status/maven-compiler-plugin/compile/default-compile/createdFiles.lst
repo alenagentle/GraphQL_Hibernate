@@ -1,0 +1,6 @@
+com\vtb\graphql\query\VehicleQuery.class
+com\vtb\graphql\dao\entity\Vehicle.class
+com\vtb\graphql\dao\repository\VehicleRepository.class
+com\vtb\graphql\service\VehicleService.class
+com\vtb\graphql\mutation\VehicleMutation.class
+com\vtb\graphql\Application.class
